@@ -2,6 +2,7 @@ from flask import Flask, render_template, request
 import logging
 from datetime import datetime
 
+logging.getLogger("werkzeug").disabled = True
 logging.basicConfig(filename='record.log', level=logging.DEBUG)
 
 
