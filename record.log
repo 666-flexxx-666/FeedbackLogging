@@ -1,1 +1,17 @@
 DEBUG:main:2022-11-17 13:20:18 successfully loaded index.html for 127.0.0.1
+DEBUG:main:2022-11-17 13:22:54 successfully loaded index.html for 127.0.0.1
+DEBUG:main:2022-11-17 13:23:00 successfully loaded form.html for 127.0.0.1
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-677-511
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-677-511
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzexug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-677-511

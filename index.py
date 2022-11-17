@@ -2,7 +2,6 @@ from flask import Flask, render_template, request
 import logging
 from datetime import datetime
 
-logging.getLogger("werkzeug").disabled = True
 logging.basicConfig(filename='record.log', level=logging.DEBUG)
 
 
@@ -22,6 +21,3 @@ def form():
     app.logger.debug(now + "successfully loaded form.html for " + str(request.remote_addr))
     return render_template('form.html')
 
-
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8080, debug=False)
