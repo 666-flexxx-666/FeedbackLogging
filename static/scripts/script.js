@@ -11,4 +11,4 @@ function slideShow(){
     img[indexValue - 1].style.display = "block";
 }
 slideShow();
-// https://www.codingnepalweb.com/automatic-image-slider-in-html-css/
+// ABOVE CODE: https://www.codingnepalweb.com/automatic-image-slider-in-html-css/
