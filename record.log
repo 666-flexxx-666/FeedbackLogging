@@ -136,3 +136,9 @@ DEBUG:index:2022-11-17 16:33:25 successfully loaded chat.html for 127.0.0.1
 DEBUG:index:2022-11-17 16:33:36 successfully loaded chat.html for 127.0.0.1
 DEBUG:index:2022-11-17 16:33:46 successfully POST for 127.0.0.1
 DEBUG:index:2022-11-17 16:34:00 successfully POST for 127.0.0.1
+DEBUG:index:2022-11-17 16:37:32 successfully loaded index.html for 127.0.0.1
+DEBUG:index:2022-11-17 16:37:33 successfully loaded chat.html for 127.0.0.1
+DEBUG:index:2022-11-17 16:37:38 successfully loaded form.html for 127.0.0.1
+DEBUG:index:2022-11-17 16:45:24 successfully loaded index.html for 127.0.0.1
+DEBUG:index:2022-11-17 16:45:26 successfully loaded chat.html for 127.0.0.1
+DEBUG:index:2022-11-17 16:45:35 successfully POST for 127.0.0.1
